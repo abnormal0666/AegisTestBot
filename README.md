@@ -20,3 +20,5 @@ Put your token in `config.h`
 @CobraCPP#7412 playlist
 <br>
 @CobraCPP#7412 prefix
+<br>
+@CobraCPP#7412 help
