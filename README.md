@@ -13,7 +13,6 @@ Put your token in `config.h`
 <br>
 
 <h1>Commands</h1>
-<br>
 @CobraCPP#7412 embed
 <br>
 @CobraCPP#7412 website
