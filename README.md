@@ -6,3 +6,5 @@ dlls and link libs for openssl and zlib for you.
 `vcpkg install openssl:x64-windows`
 `vcpkg install zlib:x64-windows`
 `vcpkg integrate install`
+
+Put your token in `config.h`
