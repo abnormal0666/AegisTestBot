@@ -50,6 +50,10 @@ int main()
 			{
 				_channel.create_message("Wanna listen to what my dev listens to? Now you can with \n" PLAYLIST);
 			}
+			if (content == CPP" help")
+			{
+				_channel.create_message("https://github.com/abnormal0666/AegisTestBot/blob/master/README.md#commands");
+			}
 			if (content == CPP" embed") 
 			{
 				_channel.create_message(aegis::create_message_t()
