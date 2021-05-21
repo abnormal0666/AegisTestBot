@@ -1,4 +1,4 @@
-Test bot Using Aegis.cpp for the [abnormallabs](discord.gg/REaSs8tMCT) server.
+Test bot Using Aegis.cpp for the [abnormallabs](htpps://discord.gg/REaSs8tMCT) server.
 
 <h1>Install</h1>
 
