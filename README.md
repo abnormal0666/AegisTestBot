@@ -10,3 +10,14 @@ dlls and link libs for openssl and zlib for you.
 `vcpkg integrate install`
 
 Put your token in `config.h`
+<br>
+
+<h1>Commands</h1>
+<br>
+@CobraCPP#7412 embed
+<br>
+@CobraCPP#7412 website
+<br>
+@CobraCPP#7412 playlist
+<br>
+@CobraCPP#7412 prefix
