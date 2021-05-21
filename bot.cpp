@@ -54,6 +54,10 @@ int main()
 			{
 				_channel.create_message("https://github.com/abnormal0666/AegisTestBot/blob/master/README.md#commands");
 			}
+			if (content == CPP" triggers" or content == "triggers")
+			{
+				_channel.create_message("``playlist``, ``help``, ``website``, ``prefix``");
+			}
 			if (content == CPP" embed") 
 			{
 				_channel.create_message(aegis::create_message_t()
